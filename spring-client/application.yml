@@ -1,4 +1,3 @@
 application:
     name: nome do projeto SPRING-CLIENT
-    client:
-        description: descrição da aplicação
+    description: descrição da aplicação

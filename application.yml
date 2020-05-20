@@ -1,6 +1,7 @@
 application:
     name: nome do projeto
     location: SP
+    description: descrição raiz
 
 configuration:
     test: active
