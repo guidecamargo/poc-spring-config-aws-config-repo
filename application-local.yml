@@ -1,7 +1,3 @@
 application:
-    name: nome do projeto
-    location: SP
-
-configuration:
-    test: active
-    test-message: esta é uma mensagem de testes
+    name: nome do projeto LOCAL
+    location: LOCAL
