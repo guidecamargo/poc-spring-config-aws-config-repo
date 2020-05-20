@@ -1,4 +1,4 @@
 application:
-    name: nome do projeto SPRING-CLIENT DEV
-    date: date SPRING-CLIENT DEV
-    description: description SPRING-CLIENT DEV
+    app: SPRING-CLIENT DEV
+    booleano: SPRING-CLIENT DEV
+    car-plate: SPRING-CLIENT DEV

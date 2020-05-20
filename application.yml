@@ -1,8 +1,11 @@
 application:
-    name: nome do projeto RAIZ
-    location: RAIZ
-    description: descrição RAIZ
-    date: date RAIZ
+    app: RAIZ
+    booleano: RAIZ
+    carplate: RAIZ
+    description: RAIZ
+    environment: RAIZ
+    force: RAIZ
+    goal: RAIZ
 
 configuration:
     test: active
