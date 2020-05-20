@@ -1,0 +1,7 @@
+application:
+    name: nome do projeto
+    location: SP
+
+configuration:
+    test: active
+    test-message: esta é uma mensagem de testes

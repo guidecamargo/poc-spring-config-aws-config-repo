@@ -1,0 +1,4 @@
+application:
+    spring:
+        client:
+            description: descrição da aplicação
