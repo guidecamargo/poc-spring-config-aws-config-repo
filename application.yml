@@ -1,7 +1,8 @@
 application:
-    name: nome do projeto
-    location: SP
-    description: descrição raiz
+    name: nome do projeto RAIZ
+    location: RAIZ
+    description: descrição RAIZ
+    date: date RAIZ
 
 configuration:
     test: active
